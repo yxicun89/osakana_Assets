@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: b72c35969c66b1e4cb6baaef43523a98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - player3: {instanceID: 0}
+  - player4: {instanceID: 0}
+  - player5: {instanceID: 0}
+  - player6: {instanceID: 0}
+  - player7: {instanceID: 0}
+  - button: {instanceID: 0}
+  - button1: {instanceID: 0}
+  - button2: {instanceID: 0}
+  - button3: {instanceID: 0}
+  - button4: {instanceID: 0}
+  - button5: {instanceID: 0}
+  - button6: {instanceID: 0}
+  - button7: {instanceID: 0}
+  - PlayerCastleFullHP: {instanceID: 0}
+  - PlayerCastleCurrentHP: {instanceID: 0}
+  - AllCostText: {instanceID: 0}
+  - CreateSound: {fileID: 8300000, guid: 7b9bb78896c22644d9a76bc060e4d01c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
